@@ -1,5 +1,5 @@
 Hi 👋 My name is Frederick Atabo
-================================I am a PHP/Laravel and I have been building professional applications for over four years now using this technology. I have worked on USSD applications, e-commerce applications, Electronic Result Systems,Payroll management applications, Loans applications, CBT applications among others.* 🌍  I'm based in Abuja Nigeria* 🖥️  See my portfolio at [https://fredatabo.com](http://fredatabo.com)* ✉️  You can contact me at [fredatabo@gmail.com](mailto:fredatabo@gmail.com)* 🧠  I'm learning I am currently improving my skills in VUE JS
+=================I am a PHP/Laravel developer and I have been building professional applications for over four years now using this technology. I have worked on USSD applications, e-commerce applications, Electronic Result Systems,Payroll management applications, Loans applications, CBT applications among others.* 🌍  I'm based in Abuja Nigeria* 🖥️  See my portfolio at [https://fredatabo.com](http://fredatabo.com)* ✉️  You can contact me at [fredatabo@gmail.com](mailto:fredatabo@gmail.com)* 🧠  I'm learning I am currently improving my skills in VUE JS
 
 ### Skills
 
